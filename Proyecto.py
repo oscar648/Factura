@@ -1,7 +1,6 @@
 from tkinter import *
 
 
-
 raiz=Tk()
 raiz.title ("ventana")# Título de la ventana
 
