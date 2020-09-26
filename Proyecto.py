@@ -18,4 +18,15 @@ miFrame.config(relief="groove") #sombreado para el frame
 miFrame.config(cursor="pirate") #cambiar el cursor
 
 # Comenzamos el bucle de aplicación, es como un while True
+
+
+
+
+
+
+
+
+
+
+
 raiz.mainloop()
