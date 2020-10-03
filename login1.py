@@ -1,6 +1,7 @@
 import tkinter
 from tkinter import*
-from tkinter import messagebox
+from tkinter import messagebox # alertar y precaucion
+
 
 
 pantalla=Tk()
@@ -13,7 +14,11 @@ Button(text="Iniciar Sesión",height="3",width="30", relief=RAISED,\
                          cursor="watch").pack()#la funcion relief sirver para la seleccion  ---cursor="watch" cambiar el curso
 
 
-Button2(text="Registrate",height="3",width="30", relief=RAISED,\
+button2=Button(text="Registrate",height="3",width="30", relief=RAISED,\
                          cursor="watch").pack()
+def obtener ():
+    #print(valor.get())
+    messagebox.showinfo("Mensaje","Se alogiado"+valor.get())
+valor=StringVar()
 
 pantalla.mainloop()
