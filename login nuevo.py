@@ -1,27 +1,4 @@
-Skip to content
-Learn Git and GitHub without any code!
-Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
 
-
-antonioam82
-/
-ejercicios-python
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-More
-ejercicios-python/mi_login.py /
-@antonioam82
-antonioam82 Rename mi_login,py to mi_login.py
- History
- 1 contributor
-166 lines (128 sloc)  5.96 KB
-  
-Code navigation is available!
-Navigate your code with ease. Click on function and method calls to jump to their definitions or references in the same repository. Learn more
 
 #CREANDO LOGIN CON PYTHON Y TKINTER.
 
